@@ -1,0 +1,16 @@
+C:\Users\zbcevlo\source\repos\Threadpooling\Threadpooling\bin\Debug\net5.0\Threadpooling.exe
+C:\Users\zbcevlo\source\repos\Threadpooling\Threadpooling\bin\Debug\net5.0\Threadpooling.deps.json
+C:\Users\zbcevlo\source\repos\Threadpooling\Threadpooling\bin\Debug\net5.0\Threadpooling.runtimeconfig.json
+C:\Users\zbcevlo\source\repos\Threadpooling\Threadpooling\bin\Debug\net5.0\Threadpooling.runtimeconfig.dev.json
+C:\Users\zbcevlo\source\repos\Threadpooling\Threadpooling\bin\Debug\net5.0\Threadpooling.dll
+C:\Users\zbcevlo\source\repos\Threadpooling\Threadpooling\bin\Debug\net5.0\Threadpooling.pdb
+C:\Users\zbcevlo\source\repos\Threadpooling\Threadpooling\obj\Debug\net5.0\Threadpooling.csproj.AssemblyReference.cache
+C:\Users\zbcevlo\source\repos\Threadpooling\Threadpooling\obj\Debug\net5.0\Threadpooling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbcevlo\source\repos\Threadpooling\Threadpooling\obj\Debug\net5.0\Threadpooling.AssemblyInfoInputs.cache
+C:\Users\zbcevlo\source\repos\Threadpooling\Threadpooling\obj\Debug\net5.0\Threadpooling.AssemblyInfo.cs
+C:\Users\zbcevlo\source\repos\Threadpooling\Threadpooling\obj\Debug\net5.0\Threadpooling.csproj.CoreCompileInputs.cache
+C:\Users\zbcevlo\source\repos\Threadpooling\Threadpooling\obj\Debug\net5.0\Threadpooling.dll
+C:\Users\zbcevlo\source\repos\Threadpooling\Threadpooling\obj\Debug\net5.0\refint\Threadpooling.dll
+C:\Users\zbcevlo\source\repos\Threadpooling\Threadpooling\obj\Debug\net5.0\Threadpooling.pdb
+C:\Users\zbcevlo\source\repos\Threadpooling\Threadpooling\obj\Debug\net5.0\Threadpooling.genruntimeconfig.cache
+C:\Users\zbcevlo\source\repos\Threadpooling\Threadpooling\obj\Debug\net5.0\ref\Threadpooling.dll

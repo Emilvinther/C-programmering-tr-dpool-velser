@@ -1,0 +1,16 @@
+C:\Users\zbcevlo\source\repos\TPOPG1\TPOPG1\bin\Debug\net5.0\TPOPG1.exe
+C:\Users\zbcevlo\source\repos\TPOPG1\TPOPG1\bin\Debug\net5.0\TPOPG1.deps.json
+C:\Users\zbcevlo\source\repos\TPOPG1\TPOPG1\bin\Debug\net5.0\TPOPG1.runtimeconfig.json
+C:\Users\zbcevlo\source\repos\TPOPG1\TPOPG1\bin\Debug\net5.0\TPOPG1.runtimeconfig.dev.json
+C:\Users\zbcevlo\source\repos\TPOPG1\TPOPG1\bin\Debug\net5.0\TPOPG1.dll
+C:\Users\zbcevlo\source\repos\TPOPG1\TPOPG1\bin\Debug\net5.0\TPOPG1.pdb
+C:\Users\zbcevlo\source\repos\TPOPG1\TPOPG1\obj\Debug\net5.0\TPOPG1.csproj.AssemblyReference.cache
+C:\Users\zbcevlo\source\repos\TPOPG1\TPOPG1\obj\Debug\net5.0\TPOPG1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbcevlo\source\repos\TPOPG1\TPOPG1\obj\Debug\net5.0\TPOPG1.AssemblyInfoInputs.cache
+C:\Users\zbcevlo\source\repos\TPOPG1\TPOPG1\obj\Debug\net5.0\TPOPG1.AssemblyInfo.cs
+C:\Users\zbcevlo\source\repos\TPOPG1\TPOPG1\obj\Debug\net5.0\TPOPG1.csproj.CoreCompileInputs.cache
+C:\Users\zbcevlo\source\repos\TPOPG1\TPOPG1\obj\Debug\net5.0\TPOPG1.dll
+C:\Users\zbcevlo\source\repos\TPOPG1\TPOPG1\obj\Debug\net5.0\refint\TPOPG1.dll
+C:\Users\zbcevlo\source\repos\TPOPG1\TPOPG1\obj\Debug\net5.0\TPOPG1.pdb
+C:\Users\zbcevlo\source\repos\TPOPG1\TPOPG1\obj\Debug\net5.0\TPOPG1.genruntimeconfig.cache
+C:\Users\zbcevlo\source\repos\TPOPG1\TPOPG1\obj\Debug\net5.0\ref\TPOPG1.dll
